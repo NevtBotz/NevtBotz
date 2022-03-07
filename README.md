@@ -10,7 +10,6 @@
 ### Connect with me ☎️
 <p align="center">
   <img src="https://c.tenor.com/owx4Hlt5V8kAAAAC/loli-cute.gif" />
-  <a href="https://wa.me/+6281805450249"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=contac&logoColor=white" /><br>
 </p>
 <p align="center">
   <a href="https://instagram.com/NevtGanz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
@@ -24,4 +23,4 @@
 ### Github Stats 🚀
 
 <p align="center"><a href="https://github.com/NevtBotz"><img src="https://github-readme-stats.vercel.app/api?username=NevtBotz&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/NevtBotz"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NevtBotz&theme=radical&layout=compact"></a></p> 
+<p align="center"><a href="https://github.com/NevtBotz"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NevtBotz&theme=radical&layout=compact"></a></p>
